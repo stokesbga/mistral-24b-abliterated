@@ -9,6 +9,7 @@ models/
 gguf/
 llama.cpp/
 *.egg-info
+*.log
 
 # Virtual environments
 .venv
