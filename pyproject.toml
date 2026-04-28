@@ -1,0 +1,19 @@
+[project]
+name = "ablated"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=1.0",
+    "datasets>=3.0",
+    "gguf>=0.18.0",
+    "hf-transfer>=0.1.9",
+    "huggingface-hub[hf-transfer]>=0.26",
+    "mistral-common>=1.11.0",
+    "protobuf>=7.34.1",
+    "safetensors>=0.4",
+    "sentencepiece>=0.2.1",
+    "torch>=2.4",
+    "tqdm>=4.67.3",
+    "transformers>=4.45",
+]

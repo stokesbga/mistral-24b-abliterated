@@ -1,0 +1,1 @@
+FROM ./gguf/mistral-small-3.2-24b-abliterated-Q4_K_M.gguf
